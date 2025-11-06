@@ -10,6 +10,8 @@
 0.0.0.0 www.chatgpt.com
 0.0.0.0 ios.chat.openai.com
 0.0.0.0 android.chat.openai.com
+0.0.0.0 cdn.openai.com
+0.0.0.0 openai.com
 0.0.0.0 gemini.google.com
 0.0.0.0 ai.google.com
 0.0.0.0 assistant.google.com
