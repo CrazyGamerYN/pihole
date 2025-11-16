@@ -3347,21 +3347,29 @@
 0.0.0.0 www.snapchat.com
 
 #steam
-0.0.0.0 steamcommunity.com
+0.0.0.0 steampowered.com
 0.0.0.0 store.steampowered.com
-0.0.0.0 steamcdn-a.akamaihd.net
-0.0.0.0 steamcdn-a.akamaihd.net
-0.0.0.0 content.steampowered.com
-0.0.0.0 steamcontent.com
-0.0.0.0 steamcontent-a.akamaihd.net
-0.0.0.0 media.steampowered.com
 0.0.0.0 help.steampowered.com
 0.0.0.0 api.steampowered.com
-0.0.0.0 steamapps.com
-0.0.0.0 version.steampowered.com
-0.0.0.0 client-download.steampowered.com
+0.0.0.0 checkout.steampowered.com
+0.0.0.0 partner.steampowered.com
+0.0.0.0 support.steampowered.com
+0.0.0.0 steamcommunity.com
+0.0.0.0 avatars.steamstatic.com
+0.0.0.0 avatars.akamai.steamstatic.com
 0.0.0.0 steamstatic.com
-0.0.0.0 steampowered.com
+0.0.0.0 community.steamstatic.com
+0.0.0.0 store.steamstatic.com
+0.0.0.0 cdn.steamstatic.com
+0.0.0.0 cdn.steampowered.com
+0.0.0.0 content.steampowered.com
+0.0.0.0 media.steampowered.com
+0.0.0.0 steamcontent.com
+0.0.0.0 steamcdn-a.akamaihd.net
+0.0.0.0 steamusercontent.com
+0.0.0.0 ugc.steamusercontent.com
+0.0.0.0 avatars.steamusercontent.com
+0.0.0.0 steamgames.com
 
 #linkedin
 0.0.0.0 addtoprofile.linkedin.com
