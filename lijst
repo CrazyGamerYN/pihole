@@ -2,26 +2,6 @@
 #0.0.0.0 www.dropbox.com
 0.0.0.0 eatout.co.ke
 0.0.0.0 commons.wikimedia.org
-0.0.0.0 nslookup.io
-0.0.0.0 www.nslookup.io
-0.0.0.0 browserleaks.com
-0.0.0.0 www.browserleaks.com
-0.0.0.0 site24x7.com
-0.0.0.0 www.site24x7.com
-0.0.0.0 dnschecker.org
-0.0.0.0 www.dnschecker.org
-0.0.0.0 uptrends.com
-0.0.0.0 www.uptrends.com
-0.0.0.0 smartranking.nl
-0.0.0.0 www.smartranking.nl
-0.0.0.0 2ip.io
-0.0.0.0 www.2ip.io
-0.0.0.0 ipvoid.com
-0.0.0.0 www.ipvoid.com
-0.0.0.0 check-host.net
-0.0.0.0 www.check-host.net
-0.0.0.0 whatismyip.com
-0.0.0.0 www.whatismyip.com
 
 0.0.0.0 chatgpt.com
 0.0.0.0 auth.openai.com
@@ -40,7 +20,6 @@
 0.0.0.0 tikcdn.io
 
 #geen terugval leechblock
-0.0.0.0 toolbox.googleapps.com
 0.0.0.0 abc.com
 0.0.0.0 www.abc.com
 0.0.0.0 ad.nl
@@ -684,6 +663,29 @@
 0.0.0.0 fastly-download.epicgames.com
 0.0.0.0 store.epicgames.com
 0.0.0.0 static-assets-prod.epicgames.com
+
+#IP lookup
+0.0.0.0 toolbox.googleapps.com
+0.0.0.0 nslookup.io
+0.0.0.0 www.nslookup.io
+0.0.0.0 browserleaks.com
+0.0.0.0 www.browserleaks.com
+0.0.0.0 site24x7.com
+0.0.0.0 www.site24x7.com
+0.0.0.0 dnschecker.org
+0.0.0.0 www.dnschecker.org
+0.0.0.0 uptrends.com
+0.0.0.0 www.uptrends.com
+0.0.0.0 smartranking.nl
+0.0.0.0 www.smartranking.nl
+0.0.0.0 2ip.io
+0.0.0.0 www.2ip.io
+0.0.0.0 ipvoid.com
+0.0.0.0 www.ipvoid.com
+0.0.0.0 check-host.net
+0.0.0.0 www.check-host.net
+0.0.0.0 whatismyip.com
+0.0.0.0 www.whatismyip.com
 
 #Youtube
 0.0.0.0 youtu.be
