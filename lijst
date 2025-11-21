@@ -1,14 +1,6 @@
 #github-specific
 #0.0.0.0 www.dropbox.com
 0.0.0.0 eatout.co.ke
-0.0.0.0 9xbuddy.in
-0.0.0.0 www.9xbuddy.in
-0.0.0.0 buzzfeed.com
-0.0.0.0 www.buzzfeed.com
-0.0.0.0 newrepublic.com
-0.0.0.0 www.newrepublic.com
-0.0.0.0 people.com
-0.0.0.0 www.people.com
 
 0.0.0.0 commons.wikimedia.org
 0.0.0.0 chatgpt.com
@@ -48,6 +40,8 @@
 0.0.0.0 www.bredavandaag.nl
 0.0.0.0 breitbart.com
 0.0.0.0 www.breitbart.com
+0.0.0.0 buzzfeed.com
+0.0.0.0 www.buzzfeed.com
 0.0.0.0 cbs.com
 0.0.0.0 www.cbs.com
 0.0.0.0 chess.com
@@ -122,6 +116,8 @@
 0.0.0.0 www.nbcnews.com
 0.0.0.0 nd.nl
 0.0.0.0 www.nd.nl
+0.0.0.0 newrepublic.com
+0.0.0.0 www.newrepublic.com
 0.0.0.0 newsweek.com
 0.0.0.0 www.newsweek.com
 0.0.0.0 nieuws365.be
@@ -140,6 +136,8 @@
 0.0.0.0 www.ongehoordnederland.tv
 0.0.0.0 parool.nl
 0.0.0.0 www.parool.nl
+0.0.0.0 people.com
+0.0.0.0 www.people.com
 0.0.0.0 polymarket.com
 0.0.0.0 www.polymarket.com
 0.0.0.0 rd.nl
@@ -638,6 +636,8 @@
 0.0.0.0 www.en1.savefrom.net
 0.0.0.0 smallseotools.com
 0.0.0.0 www.smallseotools.com
+0.0.0.0 9xbuddy.in
+0.0.0.0 www.9xbuddy.in
 
 #CD Projekt Red
 0.0.0.0 cdprojektred.com
