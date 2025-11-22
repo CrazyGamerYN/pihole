@@ -18,6 +18,7 @@
 0.0.0.0 assistant.google.com
 0.0.0.0 chat-pa.clients6.google.com
 0.0.0.0 tikcdn.io
+0.0.0.0 assets.msn.com
 
 #geen terugval leechblock
 0.0.0.0 abc.com
