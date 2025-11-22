@@ -21,10 +21,16 @@
 0.0.0.0 #github.com/LinuxKunaL/anbox*
 0.0.0.0 testgrid.io
 0.0.0.0 www.testgrid.io
-
 #download
 0.0.0.0 sourceforge.net
 0.0.0.0 www.sourceforge.net
+#seaarch engines
+0.0.0.0 search.aol.com
+0.0.0.0 www.search.aol.com
+0.0.0.0 mojeek.com
+0.0.0.0 www.mojeek.com
+0.0.0.0 presearch.com
+0.0.0.0 www.presearch.com
 
 0.0.0.0 commons.wikimedia.org
 0.0.0.0 chatgpt.com
