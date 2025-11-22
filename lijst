@@ -26,7 +26,6 @@
 0.0.0.0 www.sourceforge.net
 #seaarch engines
 0.0.0.0 search.aol.com
-0.0.0.0 www.search.aol.com
 0.0.0.0 mojeek.com
 0.0.0.0 www.mojeek.com
 0.0.0.0 presearch.com
@@ -35,14 +34,13 @@
 0.0.0.0 www.qwant.com
 0.0.0.0 swisscows.com
 0.0.0.0 www.swisscows.com
-0.0.0.0 https://yep.com
-0.0.0.0 https://yep.com
+0.0.0.0 yep.com
+0.0.0.0 www.yep.com
 0.0.0.0 karmasearch.org
 0.0.0.0 www.karmasearch.org
 0.0.0.0 baidu.com
 0.0.0.0 www.baidu.com
 0.0.0.0 image.baidu.com
-0.0.0.0 www.image.baidu.com
 0.0.0.0 sogou.com
 0.0.0.0 www.sogou.com
 0.0.0.0 pic.sogou.com
