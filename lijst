@@ -3302,6 +3302,11 @@
 0.0.0.0 new.reddit.com
 0.0.0.0 np.reddit.com
 0.0.0.0 nsfw.reddit.com
+0.0.0.0 reddnsfw.com
+0.0.0.0 reddit-viewer.com
+0.0.0.0 infini.wtf
+0.0.0.0 image.infini.wtf
+0.0.0.0 video.infini.wtf
 0.0.0.0 oauth.reddit.com
 0.0.0.0 old.reddit.com
 0.0.0.0 oops.redditmedia.com
