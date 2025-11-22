@@ -8,7 +8,19 @@
 0.0.0.0 mumuplayer.com
 0.0.0.0 www.mumuplayer.com
 0.0.0.0 mumuplayer.com
-#https://developer.android.com/studio
+0.0.0.0 #https://developer.android.com/studio
+0.0.0.0 blissos.org
+0.0.0.0 www.blissos.org
+0.0.0.0 now.gg
+0.0.0.0 www.now.gg
+0.0.0.0 #https://github.com/BlissOS
+0.0.0.0 stream.myandroid.org
+0.0.0.0 uptoplay.net
+0.0.0.0 www.uptoplay.net
+
+#download
+0.0.0.0 sourceforge.net
+0.0.0.0 www.sourceforge.net
 
 0.0.0.0 commons.wikimedia.org
 0.0.0.0 chatgpt.com
