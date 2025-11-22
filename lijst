@@ -1,52 +1,6 @@
 #github-specific
 #0.0.0.0 www.dropbox.com
 0.0.0.0 eatout.co.ke
-0.0.0.0 myandroid.org
-0.0.0.0 www.myandroid.org
-0.0.0.0 appetize.io
-0.0.0.0 www.appetize.io
-0.0.0.0 mumuplayer.com
-0.0.0.0 www.mumuplayer.com
-0.0.0.0 mumuplayer.com
-0.0.0.0 #https://developer.android.com/studio
-0.0.0.0 blissos.org
-0.0.0.0 www.blissos.org
-0.0.0.0 now.gg
-0.0.0.0 www.now.gg
-0.0.0.0 #https://github.com/BlissOS
-0.0.0.0 stream.myandroid.org
-0.0.0.0 uptoplay.net
-0.0.0.0 www.uptoplay.net
-0.0.0.0 #docs.samsungknox.com/dev/knox-sdk*
-0.0.0.0 #github.com/LinuxKunaL/anbox*
-0.0.0.0 testgrid.io
-0.0.0.0 www.testgrid.io
-#download
-0.0.0.0 sourceforge.net
-0.0.0.0 www.sourceforge.net
-#seaarch engines
-0.0.0.0 search.aol.com
-0.0.0.0 mojeek.com
-0.0.0.0 www.mojeek.com
-0.0.0.0 presearch.com
-0.0.0.0 www.presearch.com
-0.0.0.0 qwant.com
-0.0.0.0 www.qwant.com
-0.0.0.0 swisscows.com
-0.0.0.0 www.swisscows.com
-0.0.0.0 yep.com
-0.0.0.0 www.yep.com
-0.0.0.0 karmasearch.org
-0.0.0.0 www.karmasearch.org
-0.0.0.0 baidu.com
-0.0.0.0 www.baidu.com
-0.0.0.0 image.baidu.com
-0.0.0.0 sogou.com
-0.0.0.0 www.sogou.com
-0.0.0.0 pic.sogou.com
-0.0.0.0 naver.com
-0.0.0.0 www.naver.com
-0.0.0.0 search.naver.com
 
 0.0.0.0 commons.wikimedia.org
 0.0.0.0 chatgpt.com
@@ -674,6 +628,28 @@
 0.0.0.0 www.ya.ru
 0.0.0.0 search.yahoo.com
 0.0.0.0 www.search.yahoo.com
+0.0.0.0 search.aol.com
+0.0.0.0 mojeek.com
+0.0.0.0 www.mojeek.com
+0.0.0.0 presearch.com
+0.0.0.0 www.presearch.com
+0.0.0.0 qwant.com
+0.0.0.0 www.qwant.com
+0.0.0.0 swisscows.com
+0.0.0.0 www.swisscows.com
+0.0.0.0 yep.com
+0.0.0.0 www.yep.com
+0.0.0.0 karmasearch.org
+0.0.0.0 www.karmasearch.org
+0.0.0.0 baidu.com
+0.0.0.0 www.baidu.com
+0.0.0.0 image.baidu.com
+0.0.0.0 sogou.com
+0.0.0.0 www.sogou.com
+0.0.0.0 pic.sogou.com
+0.0.0.0 naver.com
+0.0.0.0 www.naver.com
+0.0.0.0 search.naver.com
 
 #Video downloaders
 0.0.0.0 downr.org
@@ -740,6 +716,27 @@
 0.0.0.0 www.check-host.net
 0.0.0.0 whatismyip.com
 0.0.0.0 www.whatismyip.com
+
+#android emulators
+0.0.0.0 myandroid.org
+0.0.0.0 www.myandroid.org
+0.0.0.0 appetize.io
+0.0.0.0 www.appetize.io
+0.0.0.0 mumuplayer.com
+0.0.0.0 www.mumuplayer.com
+0.0.0.0 blissos.org
+0.0.0.0 www.blissos.org
+0.0.0.0 now.gg
+0.0.0.0 www.now.gg
+0.0.0.0 stream.myandroid.org
+0.0.0.0 uptoplay.net
+0.0.0.0 www.uptoplay.net
+0.0.0.0 testgrid.io
+0.0.0.0 www.testgrid.io
+
+#suspicious downloads
+0.0.0.0 sourceforge.net
+0.0.0.0 www.sourceforge.net
 
 #Youtube
 0.0.0.0 youtu.be
