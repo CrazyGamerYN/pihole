@@ -31,6 +31,24 @@
 0.0.0.0 www.mojeek.com
 0.0.0.0 presearch.com
 0.0.0.0 www.presearch.com
+0.0.0.0 qwant.com
+0.0.0.0 www.qwant.com
+0.0.0.0 swisscows.com
+0.0.0.0 www.swisscows.com
+0.0.0.0 https://yep.com
+0.0.0.0 https://yep.com
+0.0.0.0 karmasearch.org
+0.0.0.0 www.karmasearch.org
+0.0.0.0 baidu.com
+0.0.0.0 www.baidu.com
+0.0.0.0 image.baidu.com
+0.0.0.0 www.image.baidu.com
+0.0.0.0 sogou.com
+0.0.0.0 www.sogou.com
+0.0.0.0 pic.sogou.com
+0.0.0.0 naver.com
+0.0.0.0 www.naver.com
+0.0.0.0 search.naver.com
 
 0.0.0.0 commons.wikimedia.org
 0.0.0.0 chatgpt.com
