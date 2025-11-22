@@ -17,6 +17,8 @@
 0.0.0.0 stream.myandroid.org
 0.0.0.0 uptoplay.net
 0.0.0.0 www.uptoplay.net
+0.0.0.0 #docs.samsungknox.com/dev/knox-sdk*
+0.0.0.0 #github.com/LinuxKunaL/anbox*
 
 #download
 0.0.0.0 sourceforge.net
