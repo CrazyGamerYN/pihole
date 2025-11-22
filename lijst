@@ -19,6 +19,8 @@
 0.0.0.0 www.uptoplay.net
 0.0.0.0 #docs.samsungknox.com/dev/knox-sdk*
 0.0.0.0 #github.com/LinuxKunaL/anbox*
+0.0.0.0 testgrid.io
+0.0.0.0 www.testgrid.io
 
 #download
 0.0.0.0 sourceforge.net
