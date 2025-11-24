@@ -23,10 +23,6 @@
 0.0.0.0 chat-pa.clients6.google.com
 0.0.0.0 tikcdn.io
 0.0.0.0 assets.msn.com
-0.0.0.0 files.mastodon.social
-0.0.0.0 masto.host
-0.0.0.0 cdn.masto.host
-0.0.0.0 streaming.mastodon.social
 
 #geen terugval leechblock
 0.0.0.0 abc.com
@@ -3767,3 +3763,16 @@
 0.0.0.0 www.pinterest.com.edgekey.net
 0.0.0.0 www.pinterest.com.gslb.pinterest.com
 0.0.0.0 www.pinterest.fr
+
+#mastodon
+0.0.0.0 mastodon.social
+0.0.0.0 files.mastodon.social
+0.0.0.0 masto.host
+0.0.0.0 cdn.masto.host
+0.0.0.0 streaming.mastodon.social
+0.0.0.0 mastodonservers.net
+0.0.0.0 mastodon.online
+0.0.0.0 joinmastodon.org
+0.0.0.0 mastodon.cloud
+0.0.0.0 mastodon.social
+0.0.0.0 instances.social
