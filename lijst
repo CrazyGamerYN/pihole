@@ -1,5 +1,5 @@
 #github-specific
-0.0.0.0 www.dropbox.com
+#0.0.0.0 www.dropbox.com
 0.0.0.0 eatout.co.ke
 
 0.0.0.0 rumble.com
@@ -23,6 +23,7 @@
 0.0.0.0 chat-pa.clients6.google.com
 0.0.0.0 tikcdn.io
 0.0.0.0 assets.msn.com
+0.0.0.0 files.mastodon.social
 
 #geen terugval leechblock
 0.0.0.0 abc.com
@@ -235,6 +236,8 @@
 0.0.0.0 www.bsky.app
 0.0.0.0 bsky.social   
 0.0.0.0 www.bsky.social
+0.0.0.0 mastodon.social
+0.0.0.0 www.mastodon.social
 
 #google country domains
 0.0.0.0 www.google.ad
