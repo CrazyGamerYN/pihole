@@ -1,13 +1,8 @@
 #github-specific
-#0.0.0.0 www.dropbox.com
+0.0.0.0 www.dropbox.com
 0.0.0.0 eatout.co.ke
 
 0.0.0.0 dl.google.com
-0.0.0.0 rumble.com
-0.0.0.0 steamstore-a.akamaihd.net
-0.0.0.0 store.valvesoftware.com
-0.0.0.0 ytmp4.biz
-0.0.0.0 www.ytmp4.biz
 
 0.0.0.0 commons.wikimedia.org
 0.0.0.0 chatgpt.com
@@ -240,6 +235,8 @@
 0.0.0.0 www.bsky.social
 0.0.0.0 mastodon.social
 0.0.0.0 www.mastodon.social
+0.0.0.0 rumble.com
+0.0.0.0 www.rumble.com
 
 #google country domains
 0.0.0.0 www.google.ad
@@ -670,6 +667,8 @@
 0.0.0.0 www.smallseotools.com
 0.0.0.0 9xbuddy.in
 0.0.0.0 www.9xbuddy.in
+0.0.0.0 ytmp4.biz
+0.0.0.0 www.ytmp4.biz
 
 #CD Projekt Red
 0.0.0.0 cdprojektred.com
@@ -703,6 +702,8 @@
 0.0.0.0 fastly-download.epicgames.com
 0.0.0.0 store.epicgames.com
 0.0.0.0 static-assets-prod.epicgames.com
+0.0.0.0 steamstore-a.akamaihd.net
+0.0.0.0 store.valvesoftware.com
 
 #IP lookup
 0.0.0.0 toolbox.googleapps.com
