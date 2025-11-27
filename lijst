@@ -225,8 +225,8 @@
 0.0.0.0 www.threads.com
 0.0.0.0 threads.net
 0.0.0.0 www.threads.net
-0.0.0.0 youtube.com
-0.0.0.0 www.youtube.com
+#0.0.0.0 youtube.com
+#0.0.0.0 www.youtube.com
 0.0.0.0 discord.com
 0.0.0.0 www.discord.com
 0.0.0.0 bsky.app
@@ -750,12 +750,12 @@
 0.0.0.0 www.sourceforge.net
 
 #Youtube
-0.0.0.0 youtu.be
-0.0.0.0 youtube-nocookie.com
-0.0.0.0 youtube.googleapis.com
-0.0.0.0 youtubei.googleapis.com
-0.0.0.0 ytimg.com
-0.0.0.0 ytimg.l.google.com
+#0.0.0.0 youtu.be
+#0.0.0.0 youtube-nocookie.com
+#0.0.0.0 youtube.googleapis.com
+#0.0.0.0 youtubei.googleapis.com
+#0.0.0.0 ytimg.com
+#0.0.0.0 ytimg.l.google.com
 
 # TikTok
 0.0.0.0 api16-access-ttp.tiktokpangle.us
