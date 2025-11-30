@@ -13,6 +13,8 @@
 0.0.0.0 c.apple.news
 0.0.0.0 news-sports-events.apple.com
 0.0.0.0 news-events.apple.com
+0.0.0.0 prod-newsletter-edge.v.aaplimg.com
+0.0.0.0 newsletter-edge.apple.com
 
 0.0.0.0 commons.wikimedia.org
 0.0.0.0 chatgpt.com
