@@ -20,15 +20,15 @@
 #0.0.0.0 newsletter-edge.apple.com
 
 0.0.0.0 commons.wikimedia.org
-0.0.0.0 chatgpt.com
-0.0.0.0 auth.openai.com
-0.0.0.0 ab.chatgpt.com
-0.0.0.0 realtime.chatgpt.com
-0.0.0.0 ws.chatgpt.com
-0.0.0.0 www.chatgpt.com
-0.0.0.0 ios.chat.openai.com
-0.0.0.0 android.chat.openai.com
-0.0.0.0 cdn.openai.com
+#0.0.0.0 chatgpt.com
+#0.0.0.0 auth.openai.com
+#0.0.0.0 ab.chatgpt.com
+#0.0.0.0 realtime.chatgpt.com
+#0.0.0.0 ws.chatgpt.com
+#0.0.0.0 www.chatgpt.com
+#0.0.0.0 ios.chat.openai.com
+#0.0.0.0 android.chat.openai.com
+#0.0.0.0 cdn.openai.com
 0.0.0.0 openai.com
 0.0.0.0 gemini.google.com
 0.0.0.0 ai.google.com
