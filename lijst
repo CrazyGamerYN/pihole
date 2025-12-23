@@ -744,6 +744,8 @@
 0.0.0.0 www.check-host.net
 0.0.0.0 whatismyip.com
 0.0.0.0 www.whatismyip.com
+0.0.0.0 ip-tracker.org
+0.0.0.0 www.ip-tracker.org
 
 #android emulators
 0.0.0.0 myandroid.org
