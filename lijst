@@ -37,6 +37,10 @@
 0.0.0.0 tikcdn.io
 0.0.0.0 assets.msn.com
 
+#washington post
+0.0.0.0 talk.washingtonpost.com
+0.0.0.0 data-ai.washingtonpost.com^
+
 #geen terugval leechblock
 0.0.0.0 abc.com
 0.0.0.0 www.abc.com
