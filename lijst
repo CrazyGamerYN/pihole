@@ -39,7 +39,7 @@
 
 #washington post
 0.0.0.0 talk.washingtonpost.com
-0.0.0.0 data-ai.washingtonpost.com^
+0.0.0.0 data-ai.washingtonpost.com
 
 #geen terugval leechblock
 0.0.0.0 abc.com
