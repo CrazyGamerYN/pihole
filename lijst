@@ -757,6 +757,22 @@
 0.0.0.0 www.ipaddresslocation.net
 0.0.0.0 whois.domaintools.com
 0.0.0.0 www.whois.domaintools.com
+0.0.0.0 ip-lookup.net
+0.0.0.0 www.ip-lookup.net
+0.0.0.0 w3speedup.com
+0.0.0.0 www.w3speedup.com
+0.0.0.0 hostdean.com
+0.0.0.0 www.hostdean.com
+0.0.0.0 domaintoipconverter.com
+0.0.0.0 www.domaintoipconverter.com
+0.0.0.0 hellotools.org
+0.0.0.0 www.hellotools.org
+0.0.0.0 tools.iplocation.net
+0.0.0.0 www.tools.iplocation.net
+0.0.0.0 freetoolr.com
+0.0.0.0 www.freetoolr.com
+0.0.0.0 ipaddress.com
+0.0.0.0 www.ipaddress.com
 
 #android emulators
 0.0.0.0 myandroid.org
