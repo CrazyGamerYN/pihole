@@ -755,6 +755,8 @@
 0.0.0.0 www.iplocation.io
 0.0.0.0 ipaddresslocation.net
 0.0.0.0 www.ipaddresslocation.net
+0.0.0.0 whois.domaintools.com
+0.0.0.0 www.whois.domaintools.com
 
 #android emulators
 0.0.0.0 myandroid.org
