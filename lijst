@@ -750,6 +750,8 @@
 0.0.0.0 www.whatismyip.com
 0.0.0.0 ip-tracker.org
 0.0.0.0 www.ip-tracker.org
+0.0.0.0 iplocation.io
+0.0.0.0 www.iplocation.io
 
 #android emulators
 0.0.0.0 myandroid.org
