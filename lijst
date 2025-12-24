@@ -773,6 +773,22 @@
 0.0.0.0 www.freetoolr.com
 0.0.0.0 ipaddress.com
 0.0.0.0 www.ipaddress.com
+0.0.0.0 wsonlinetools.com
+0.0.0.0 www.wsonlinetools.com
+0.0.0.0 dns.utils.com
+0.0.0.0 www.dns.utils.com
+0.0.0.0 coderstool.com
+0.0.0.0 www.coderstool.com
+0.0.0.0 bluehost.com
+0.0.0.0 www.bluehost.com
+0.0.0.0 mxtoolbox.com
+0.0.0.0 www.mxtoolbox.com
+0.0.0.0 lookup.icann.org
+0.0.0.0 www.lookup.icann.org
+0.0.0.0 binaryfork.com
+0.0.0.0 www.binaryfork.com
+0.0.0.0 whois.whoisxmlapi.com
+0.0.0.0 www.whois.whoisxmlapi.com
 
 #android emulators
 0.0.0.0 myandroid.org
