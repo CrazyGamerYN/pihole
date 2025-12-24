@@ -789,6 +789,14 @@
 0.0.0.0 www.binaryfork.com
 0.0.0.0 whois.whoisxmlapi.com
 0.0.0.0 www.whois.whoisxmlapi.com
+0.0.0.0 netify.ai
+0.0.0.0 www.netify.ai
+0.0.0.0 viewdns.info
+0.0.0.0 www.viewdns.info
+0.0.0.0 hackertarget.com
+0.0.0.0 www.hackertarget.com
+0.0.0.0 domainsinspect.com
+0.0.0.0 www.domainsinspect.com
 
 #android emulators
 0.0.0.0 myandroid.org
