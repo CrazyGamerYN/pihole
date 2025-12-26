@@ -821,6 +821,15 @@
 0.0.0.0 sourceforge.net
 0.0.0.0 www.sourceforge.net
 
+0.0.0.0 install.download
+0.0.0.0 www.install.download
+0.0.0.0 noxappplayer.org
+0.0.0.0 www.noxappplayer.org
+0.0.0.0 majorgeeks.com
+0.0.0.0 www.majorgeeks.com
+0.0.0.0 azahar-emu.org
+0.0.0.0 www.azahar-emu.org
+
 #Youtube
 0.0.0.0 youtu.be
 0.0.0.0 youtube-nocookie.com
