@@ -683,6 +683,8 @@
 
 0.0.0.0 privacywall.org
 0.0.0.0 www.privacywall.org
+0.0.0.0 maxask.com
+0.0.0.0 www.maxask.com
 
 #Video downloaders
 0.0.0.0 downr.org
