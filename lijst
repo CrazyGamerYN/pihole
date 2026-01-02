@@ -802,6 +802,10 @@
 0.0.0.0 domainsinspect.com
 0.0.0.0 www.domainsinspect.com
 
+0.0.0.0 tools.simpletools.nl
+0.0.0.0 www.tools.simpletools.nl
+
+
 #android emulators
 0.0.0.0 myandroid.org
 0.0.0.0 www.myandroid.org
