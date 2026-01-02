@@ -856,6 +856,12 @@
 0.0.0.0 yt4.ggpht.com
 #0.0.0.0 music.youtube.com
 
+#browsers
+0.0.0.0 maxthon.com
+0.0.0.0 www.maxthon.com
+0.0.0.0 dl.mxfast.com
+0.0.0.0 www.dl.mxfast.com
+
 # TikTok
 0.0.0.0 api16-access-ttp.tiktokpangle.us
 0.0.0.0 abtest-sg-tiktok.byteoversea.com
