@@ -681,6 +681,9 @@
 0.0.0.0 www.naver.com
 0.0.0.0 search.naver.com
 
+0.0.0.0 privacywall.org
+0.0.0.0 www.privacywall.org
+
 #Video downloaders
 0.0.0.0 downr.org
 0.0.0.0 www.downr.org
