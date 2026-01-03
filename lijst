@@ -809,6 +809,10 @@
 
 0.0.0.0 tools.simpletools.nl
 0.0.0.0 www.tools.simpletools.nl
+0.0.0.0 dnslytics.com
+0.0.0.0 www.dnslytics.com
+0.0.0.0 search.dnslytics.com
+0.0.0.0 www.search.dnslytics.com
 
 
 #android emulators
