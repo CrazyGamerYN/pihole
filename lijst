@@ -813,6 +813,8 @@
 0.0.0.0 www.dnslytics.com
 0.0.0.0 search.dnslytics.com
 0.0.0.0 www.search.dnslytics.com
+0.0.0.0 tools.admeducation.com
+0.0.0.0 www.tools.admeducation.com
 
 
 #android emulators
