@@ -886,6 +886,12 @@
 0.0.0.0 www.morequick.com
 0.0.0.0 browser.qq.com
 0.0.0.0 www.browser.qq.com
+0.0.0.0 caminobrowser.org
+0.0.0.0 www.caminobrowser.org
+0.0.0.0 conkeror.org
+0.0.0.0 www.conkeror.org
+0.0.0.0 kmeleonbrowser.org
+0.0.0.0 www.kmeleonbrowser.org
 
 # TikTok
 0.0.0.0 api16-access-ttp.tiktokpangle.us
