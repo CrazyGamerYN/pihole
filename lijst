@@ -866,6 +866,10 @@
 0.0.0.0 www.maxthon.com
 0.0.0.0 dl.mxfast.com
 0.0.0.0 www.dl.mxfast.com
+0.0.0.0 alohabrowser.com
+0.0.0.0 www.alohabrowser.com
+0.0.0.0 alohabrowser.app
+0.0.0.0 www.alohabrowser.app
 
 # TikTok
 0.0.0.0 api16-access-ttp.tiktokpangle.us
