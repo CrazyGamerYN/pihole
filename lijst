@@ -876,6 +876,16 @@
 0.0.0.0 www.readdle.com
 0.0.0.0 cdn-rdstaticassets.readdle.com
 0.0.0.0 d3pbdh1dmixop.cloudfront.net
+0.0.0.0 mse.360.cn
+0.0.0.0 www.mse.360.cn
+0.0.0.0 browser.360.cn
+0.0.0.0 www.browser.360.cn
+0.0.0.0 discover.aol.com
+0.0.0.0 www.discover.aol.com
+0.0.0.0 morequick.com
+0.0.0.0 www.morequick.com
+0.0.0.0 browser.qq.com
+0.0.0.0 www.browser.qq.com
 
 # TikTok
 0.0.0.0 api16-access-ttp.tiktokpangle.us
