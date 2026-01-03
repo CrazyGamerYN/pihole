@@ -870,6 +870,12 @@
 0.0.0.0 www.alohabrowser.com
 0.0.0.0 alohabrowser.app
 0.0.0.0 www.alohabrowser.app
+0.0.0.0 alohabrowser.tools
+0.0.0.0 www.alohabrowser.tools
+0.0.0.0 readdle.com
+0.0.0.0 www.readdle.com
+0.0.0.0 cdn-rdstaticassets.readdle.com
+0.0.0.0 d3pbdh1dmixop.cloudfront.net
 
 # TikTok
 0.0.0.0 api16-access-ttp.tiktokpangle.us
