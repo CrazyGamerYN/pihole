@@ -815,6 +815,17 @@
 0.0.0.0 www.search.dnslytics.com
 0.0.0.0 tools.admeducation.com
 0.0.0.0 www.tools.admeducation.com
+0.0.0.0 centralops.net
+0.0.0.0 www.centralops.net
+0.0.0.0 dnsdumpster.com
+0.0.0.0 www.dnsdumpster.com
+0.0.0.0 tools.keycdn.com
+0.0.0.0 www.tools.keycdn.com
+0.0.0.0 ipinfo.io
+0.0.0.0 www.ipinfo.io
+0.0.0.0 ip-api.com
+0.0.0.0 www.ip-api.com
+
 
 
 #android emulators
