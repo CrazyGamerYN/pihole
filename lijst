@@ -37,6 +37,8 @@
 0.0.0.0 tikcdn.io
 0.0.0.0 assets.msn.com
 0.0.0.0 auth.thuisbezorgd.nl
+0.0.0.0 vod.foxnews.com
+0.0.0.0 foxnewsplayer-a.akamaihd.net
 
 #specific domains
 0.0.0.0 talk.washingtonpost.com
