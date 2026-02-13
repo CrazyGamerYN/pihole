@@ -835,6 +835,8 @@
 0.0.0.0 www.whatismyipaddress.com
 0.0.0.0 oisd.nl
 0.0.0.0 www.oisd.nl
+0.0.0.0 nsfw.oisd.nl
+0.0.0.0 big.oisd.nl
 
 
 #android emulators
