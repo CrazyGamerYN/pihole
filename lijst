@@ -1,6 +1,5 @@
-#github-specific
-#0.0.0.0 www.dropbox.com
-0.0.0.0 eatout.co.ke
+#dropbox-specific
+0.0.0.0 magicalkenya.com
 
 0.0.0.0 tikt.com
 0.0.0.0 www.tikt.com
