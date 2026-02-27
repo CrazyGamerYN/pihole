@@ -839,7 +839,8 @@
 0.0.0.0 www.oisd.nl
 0.0.0.0 nsfw.oisd.nl
 0.0.0.0 big.oisd.nl
-
+0.0.0.0 firebog.net
+0.0.0.0 v.firebog.net
 
 #android emulators
 0.0.0.0 myandroid.org
