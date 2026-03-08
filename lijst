@@ -39,8 +39,6 @@
 0.0.0.0 auth.thuisbezorgd.nl
 0.0.0.0 vod.foxnews.com
 0.0.0.0 foxnewsplayer-a.akamaihd.net
-0.0.0.0 blocklist.sefinek.net
-0.0.0.0 sefinek.net
 
 #specific domains
 0.0.0.0 talk.washingtonpost.com
@@ -217,8 +215,6 @@
 0.0.0.0 www.washingtontimes.com
 0.0.0.0 waterkant.net
 0.0.0.0 www.waterkant.net
-0.0.0.0 web.archive.org
-0.0.0.0 www.web.archive.org
 0.0.0.0 wnl.nl
 0.0.0.0 www.wnl.nl
 0.0.0.0 wnl.tv
@@ -837,12 +833,6 @@
 0.0.0.0 www.ip-lookup.org
 0.0.0.0 whatismyipaddress.com
 0.0.0.0 www.whatismyipaddress.com
-0.0.0.0 oisd.nl
-0.0.0.0 www.oisd.nl
-0.0.0.0 nsfw.oisd.nl
-0.0.0.0 big.oisd.nl
-0.0.0.0 firebog.net
-0.0.0.0 v.firebog.net
 
 #android emulators
 0.0.0.0 myandroid.org
@@ -928,6 +918,19 @@
 0.0.0.0 www.conkeror.org
 0.0.0.0 kmeleonbrowser.org
 0.0.0.0 www.kmeleonbrowser.org
+
+#Github
+0.0.0.0 oisd.nl
+0.0.0.0 www.oisd.nl
+0.0.0.0 nsfw.oisd.nl
+0.0.0.0 big.oisd.nl
+0.0.0.0 firebog.net
+0.0.0.0 v.firebog.net
+0.0.0.0 blocklist.sefinek.net
+0.0.0.0 sefinek.net
+0.0.0.0 web.archive.org
+0.0.0.0 www.web.archive.org
+0.0.0.0 raw.githubusercontent.com
 
 # TikTok
 0.0.0.0 api16-access-ttp.tiktokpangle.us
