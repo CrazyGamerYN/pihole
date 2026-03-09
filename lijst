@@ -263,6 +263,10 @@
 0.0.0.0 www.mastodon.social
 0.0.0.0 rumble.com
 0.0.0.0 www.rumble.com
+0.0.0.0 tumblr.com
+0.0.0.0 www.tumblr.com
+0.0.0.0 blogger.com
+0.0.0.0 www.blogger.com
 
 #google country domains
 0.0.0.0 www.google.ad
