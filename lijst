@@ -946,6 +946,10 @@
 0.0.0.0 wayback-classic.net
 0.0.0.0 www.wayback-classic.net
 
+#VPN
+0.0.0.0 hide.me
+0.0.0.0 www.hide.me
+
 # TikTok
 0.0.0.0 api16-access-ttp.tiktokpangle.us
 0.0.0.0 abtest-sg-tiktok.byteoversea.com
