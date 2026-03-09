@@ -854,6 +854,9 @@
 0.0.0.0 www.uptoplay.net
 0.0.0.0 testgrid.io
 0.0.0.0 www.testgrid.io
+0.0.0.0 app.lambdatest.com
+0.0.0.0 lambdatest.com
+0.0.0.0 www.lambdatest.com
 
 #suspicious downloads
 0.0.0.0 sourceforge.net
