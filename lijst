@@ -39,6 +39,8 @@
 0.0.0.0 auth.thuisbezorgd.nl
 0.0.0.0 vod.foxnews.com
 0.0.0.0 foxnewsplayer-a.akamaihd.net
+0.0.0.0 addons.mozilla.org
+0.0.0.0 www.addons.mozila.org
 
 #specific domains
 0.0.0.0 talk.washingtonpost.com
