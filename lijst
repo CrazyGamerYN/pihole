@@ -71,8 +71,8 @@
 0.0.0.0 www.cbs.com
 0.0.0.0 dagelijksestandaard.nl
 0.0.0.0 www.dagelijksestandaard.nl
-0.0.0.0 dailywire.com
-0.0.0.0 www.dailywire.com
+#0.0.0.0 dailywire.com
+#0.0.0.0 www.dailywire.com
 0.0.0.0 demorgen.be
 0.0.0.0 www.demorgen.be
 0.0.0.0 deondernemer.nl
@@ -91,8 +91,8 @@
 0.0.0.0 www.eonline.com
 0.0.0.0 fd.nl
 0.0.0.0 www.fd.nl
-0.0.0.0 foxnews.com
-0.0.0.0 www.foxnews.com
+#0.0.0.0 foxnews.com
+#0.0.0.0 www.foxnews.com
 0.0.0.0 ft.com
 0.0.0.0 www.ft.com
 0.0.0.0 gld.nl
