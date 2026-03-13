@@ -39,6 +39,10 @@
 0.0.0.0 auth.thuisbezorgd.nl
 0.0.0.0 vod.foxnews.com
 0.0.0.0 foxnewsplayer-a.akamaihd.net
+0.0.0.0 oldweb.today
+0.0.0.0 www.oldweb.today
+0.0.0.0 hashemian.com
+0.0.0.0 www.hashemian.com
 
 #specific domains
 0.0.0.0 talk.washingtonpost.com
