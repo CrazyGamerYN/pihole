@@ -43,6 +43,8 @@
 0.0.0.0 www.oldweb.today
 0.0.0.0 hashemian.com
 0.0.0.0 www.hashemian.com
+0.0.0.0 chromewebstore.google.com
+0.0.0.0 www.chromewebstore.google.com
 
 #specific domains
 0.0.0.0 talk.washingtonpost.com
