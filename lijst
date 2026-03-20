@@ -41,6 +41,8 @@
 0.0.0.0 foxnewsplayer-a.akamaihd.net
 0.0.0.0 chromewebstore.google.com
 0.0.0.0 www.chromewebstore.google.com
+0.0.0.0 microsoftedge.microsoft.com
+0.0.0.0 addons.opera.com
 
 #specific domains
 0.0.0.0 talk.washingtonpost.com
