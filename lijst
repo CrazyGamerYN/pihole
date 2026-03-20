@@ -39,10 +39,6 @@
 0.0.0.0 auth.thuisbezorgd.nl
 0.0.0.0 vod.foxnews.com
 0.0.0.0 foxnewsplayer-a.akamaihd.net
-0.0.0.0 oldweb.today
-0.0.0.0 www.oldweb.today
-0.0.0.0 hashemian.com
-0.0.0.0 www.hashemian.com
 0.0.0.0 chromewebstore.google.com
 0.0.0.0 www.chromewebstore.google.com
 
@@ -863,6 +859,8 @@
 0.0.0.0 app.lambdatest.com
 0.0.0.0 lambdatest.com
 0.0.0.0 www.lambdatest.com
+0.0.0.0 oldweb.today
+0.0.0.0 www.oldweb.today
 
 #suspicious downloads
 0.0.0.0 sourceforge.net
@@ -955,6 +953,8 @@
 0.0.0.0 www.webarchive.io
 0.0.0.0 wayback-classic.net
 0.0.0.0 www.wayback-classic.net
+0.0.0.0 hashemian.com
+0.0.0.0 www.hashemian.com
 
 #VPN
 0.0.0.0 hide.me
