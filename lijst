@@ -43,6 +43,8 @@
 0.0.0.0 www.chromewebstore.google.com
 0.0.0.0 microsoftedge.microsoft.com
 0.0.0.0 addons.opera.com
+0.0.0.0 clients2.google.com
+0.0.0.0 chrome‑sync.google.com
 
 #specific domains
 0.0.0.0 talk.washingtonpost.com
