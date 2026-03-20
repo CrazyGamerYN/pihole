@@ -945,6 +945,10 @@
 0.0.0.0 www.operaneon.com
 0.0.0.0 sigmabrowser.com
 0.0.0.0 www.sigmabrowser.com
+0.0.0.0 thorium.rocks
+0.0.0.0 www.thorium.rocks
+0.0.0.0 chromium.org
+0.0.0.0 www.chromium.org
 
 #Github
 0.0.0.0 oisd.nl
