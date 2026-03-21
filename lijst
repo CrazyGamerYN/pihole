@@ -844,6 +844,9 @@
 0.0.0.0 whatismyipaddress.com
 0.0.0.0 www.whatismyipaddress.com
 
+0.0.0.0 dnsrobot.net
+0.0.0.0 www.dnsrobot.net
+
 #android emulators
 0.0.0.0 myandroid.org
 0.0.0.0 www.myandroid.org
