@@ -1,5 +1,5 @@
 #github-specific
-0.0.0.0 www.dropbox.com
+#0.0.0.0 www.dropbox.com
 0.0.0.0 eatout.co.ke
 
 0.0.0.0 tikt.com
@@ -75,6 +75,8 @@
 0.0.0.0 www.buzzfeed.com
 0.0.0.0 cbs.com
 0.0.0.0 www.cbs.com
+0.0.0.0 cnn.com
+0.0.0.0 www.cnn.com
 0.0.0.0 dagelijksestandaard.nl
 0.0.0.0 www.dagelijksestandaard.nl
 0.0.0.0 dailywire.com
@@ -99,8 +101,8 @@
 0.0.0.0 www.fd.nl
 0.0.0.0 foxnews.com
 0.0.0.0 www.foxnews.com
-0.0.0.0 ft.com
-0.0.0.0 www.ft.com
+#0.0.0.0 ft.com
+#0.0.0.0 www.ft.com
 0.0.0.0 gld.nl
 0.0.0.0 www.gld.nl
 0.0.0.0 geenstijl.nl
@@ -167,6 +169,8 @@
 0.0.0.0 www.parool.nl
 0.0.0.0 people.com
 0.0.0.0 www.people.com
+0.0.0.0 politico.com
+0.0.0.0 www.politico.com
 0.0.0.0 polymarket.com
 0.0.0.0 www.polymarket.com
 0.0.0.0 prageru.com
