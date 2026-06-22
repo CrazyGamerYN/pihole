@@ -1,5 +1,5 @@
 #github-specific
-0.0.0.0 www.dropbox.com
+#0.0.0.0 www.dropbox.com
 0.0.0.0 eatout.co.ke
 
 0.0.0.0 tikt.com
@@ -45,6 +45,8 @@
 0.0.0.0 addons.opera.com
 0.0.0.0 clients2.google.com
 0.0.0.0 chrome‑sync.google.com
+0.0.0.0 mfls.medicalwerff.nl
+0.0.0.0 medicalwerff.nl
 
 #specific domains
 0.0.0.0 talk.washingtonpost.com
