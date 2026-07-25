@@ -77,8 +77,8 @@
 0.0.0.0 www.buzzfeed.com
 0.0.0.0 cbs.com
 0.0.0.0 www.cbs.com
-0.0.0.0 chess.com
-0.0.0.0 www.chess.com
+#0.0.0.0 chess.com
+#0.0.0.0 www.chess.com
 0.0.0.0 cnn.com
 0.0.0.0 www.cnn.com
 0.0.0.0 dagelijksestandaard.nl
@@ -131,8 +131,8 @@
 0.0.0.0 www.kro-ncrv.nl
 0.0.0.0 libelle.nl
 0.0.0.0 www.libelle.nl
-0.0.0.0 lichess.org
-0.0.0.0 www.lichess.org
+#0.0.0.0 lichess.org
+#0.0.0.0 www.lichess.org
 0.0.0.0 limburger.nl
 0.0.0.0 www.limburger.nl
 0.0.0.0 linda.nl
