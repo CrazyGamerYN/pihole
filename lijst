@@ -48,6 +48,11 @@
 0.0.0.0 mfls.medicalwerff.nl
 0.0.0.0 medicalwerff.nl
 
+#risk
+#0.0.0.0 vg-new-hb-bid-feedback.mtgglobals.com
+#0.0.0.0 vg-new-ssplib-hb.mtgglobals.com
+#0.0.0.0 api.production.hasbrorisk.com
+
 #specific domains
 0.0.0.0 talk.washingtonpost.com
 0.0.0.0 data-ai.washingtonpost.com
