@@ -6,18 +6,6 @@
 0.0.0.0 www.tikt.com
 
 0.0.0.0 dl.google.com
-#0.0.0.0 news-todayconfig-edge.apple.com
-#0.0.0.0 news-app-events.apple.com
-#0.0.0.0 news-client.apple.com
-#0.0.0.0 news-assets.v.aaplimg.com
-#0.0.0.0 news-assets.apple.com
-#0.0.0.0 news-edge.apple.com
-#0.0.0.0 news-edge.fe2.apple-dns.net
-#0.0.0.0 c.apple.news
-#0.0.0.0 news-sports-events.apple.com
-#0.0.0.0 news-events.apple.com
-#0.0.0.0 prod-newsletter-edge.v.aaplimg.com
-#0.0.0.0 newsletter-edge.apple.com
 
 #0.0.0.0 commons.wikimedia.org
 #0.0.0.0 chatgpt.com
