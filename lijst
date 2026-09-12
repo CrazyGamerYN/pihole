@@ -170,8 +170,8 @@
 0.0.0.0 www.people.com
 0.0.0.0 politico.com
 0.0.0.0 www.politico.com
-0.0.0.0 polymarket.com
-0.0.0.0 www.polymarket.com
+#0.0.0.0 polymarket.com
+#0.0.0.0 www.polymarket.com
 0.0.0.0 prageru.com
 0.0.0.0 www.prageru.com
 0.0.0.0 rd.nl
