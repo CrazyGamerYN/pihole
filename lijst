@@ -89,8 +89,8 @@
 0.0.0.0 www.desteven.nl
 0.0.0.0 dumpert.nl
 0.0.0.0 www.dumpert.nl
-0.0.0.0 eenvandaag.avrotros.nl
-0.0.0.0 www.eenvandaag.avrotros.nl
+#0.0.0.0 eenvandaag.avrotros.nl
+#0.0.0.0 www.eenvandaag.avrotros.nl
 0.0.0.0 eo.nl
 0.0.0.0 www.eo.nl
 0.0.0.0 eonline.com
