@@ -1,5 +1,5 @@
 #github-specific
-0.0.0.0 www.dropbox.com
+#0.0.0.0 www.dropbox.com
 0.0.0.0 eatout.co.ke
 
 0.0.0.0 tikt.com
@@ -274,8 +274,8 @@
 0.0.0.0 www.mastodon.social
 0.0.0.0 rumble.com
 0.0.0.0 www.rumble.com
-0.0.0.0 tumblr.com
-0.0.0.0 www.tumblr.com
+#0.0.0.0 tumblr.com
+#0.0.0.0 www.tumblr.com
 0.0.0.0 blogger.com
 0.0.0.0 www.blogger.com
 
